@@ -2,7 +2,7 @@ package pro_exec
 
 import "fmt"
 
-func test()  {
+func Test()  {
 	fmt.Println("say hello to ptools~")
 }
 
